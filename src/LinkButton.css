@@ -1,0 +1,24 @@
+a {
+    margin: 8px;
+    border-radius: 5px;
+}
+
+button {
+    border: none;
+    border-radius: inherit;
+    background-color: #c9c9c9;
+    color:black;
+    cursor:pointer;
+}
+
+button:hover {
+    box-shadow: 5px 5px 0px black;
+}
+
+button:active {
+    box-shadow: 3px 3px 0px black;
+}
+
+p {
+    padding: 10px
+}
